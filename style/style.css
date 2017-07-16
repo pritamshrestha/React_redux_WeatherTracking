@@ -1,0 +1,58 @@
+td,th{
+	vertical-align: middle !important;
+	text-align: center ! important;
+}
+.input-group{
+	margin:20px 0px;
+}
+svg{
+	height:150px;
+	width:200px;
+}
+td:first-of-type,td:first-of-type>div{
+	height:125px;
+	width:200px;
+}
+/*this is the use of the media quary
+@media(max-width: 800px) {
+  body{
+   	margin:auto;
+   	width:50%;
+   }
+}
+@media(max-width: 800px) {
+	svg{
+	height:75px;
+	width:100px;
+}
+  
+}
+@media(max-width: 800px) {
+	td:first-of-type,td:first-of-type>div{
+	height:62px;
+	width:100px;
+}
+  
+}
+
+@media(max-width: 400px) {
+	svg{
+	height:40px;
+	width:50px;
+}
+  
+}
+@media(max-width: 400px) {
+	td:first-of-type,td:first-of-type>div{
+	height:31px;
+	width:50px;
+}
+  
+}
+@media(max-width: 400px) {
+	th>div{
+	font-size: 10px;
+}
+  
+}
+*/
